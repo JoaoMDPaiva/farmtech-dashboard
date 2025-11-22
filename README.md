@@ -25,15 +25,15 @@ Este projeto apresenta um **dashboard interativo** que utiliza Inteligência Art
 git clone https://github.com/SEU_USUARIO/farmtech-dashboard.git
 cd farmtech-dashboard
 
-text
+
 2. **Instale as dependências**
 pip install -r requirements.txt
 
-text
+
 3. **Execute o dashboard**
 streamlit run app.py
 
-text
+
 4. O painel abrirá no navegador padrão. Pronto!
 
 ---
