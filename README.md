@@ -42,7 +42,7 @@ streamlit run app.py
 
 | Arquivo             | Descrição                                                         |
 |---------------------|-------------------------------------------------------------------|
-| `app.py`            | Código do dashboard inteligente em Streamlit                      |
+| `dashboard.py`            | Código do dashboard inteligente em Streamlit                      |
 | `dados_limpos.csv`  | Base de dados PRONTA e ANONIMIZADA para análise                   |
 | `requirements.txt`  | Bibliotecas necessárias para rodar o dashboard                    |
 | `README.md`         | (Este arquivo) Guia de uso e informações do projeto               |
